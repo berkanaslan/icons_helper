@@ -1035,7 +1035,7 @@ const Map<String, IconData> IconsMap = <String, IconData>{
   'zoom_out': Icons.zoom_out,
   'zoom_out_map': Icons.zoom_out_map,
   'content_cut_outlined': Icons.content_cut_outlined,
-  'view_cozy': Icons.view_cozy,
+  'view_cozy': Icons.view_cozy_outlined,
   'fact_check_outlined': Icons.fact_check_outlined,
   'inventory': Icons.inventory,
   'delete_outlined': Icons.delete_outlined
