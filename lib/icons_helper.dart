@@ -1038,7 +1038,8 @@ const Map<String, IconData> IconsMap = <String, IconData>{
   'view_cozy': Icons.view_cozy_outlined,
   'fact_check_outlined': Icons.fact_check_outlined,
   'inventory': Icons.inventory,
-  'delete_outlined': Icons.delete_outlined
+  'delete_outlined': Icons.delete_outlined,
+  'splitscreen': Icons.splitscreen
 };
 
 /// Icon data map for FontAwesome
